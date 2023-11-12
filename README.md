@@ -1,2 +1,2 @@
 # Data pegawai
-## Create with JAVA X MySQL
+Create with JAVA X MySQL
